@@ -1,0 +1,4 @@
+
+qsquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¿½‰üÿÿÿÿ
+msquid:S00120"WRename this package name to match the regular expression '^[a-z]+(\.[a-z][a-z0-9]*)*$'.(šşé§
+msquid:S00116"RRename this field "PDFBook" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(˜ñ‘¾ûÿÿÿÿ
